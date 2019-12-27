@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Games For Love built the dARts app as a Freemium app. This SERVICE is provided by Games For Love at no cost and is intended for use as is.
 
